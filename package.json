@@ -1,6 +1,6 @@
 {
   "name": "arc-query-runner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A query runner for Arc",
   "main": "index.js",
   "scripts": {
