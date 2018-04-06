@@ -1,5 +1,5 @@
 {
-  "name": "arc-query-runner",
+  "name": "arc.microservice-query-runner",
   "version": "1.0.0",
   "description": "A query runner for Arc",
   "main": "index.js",
