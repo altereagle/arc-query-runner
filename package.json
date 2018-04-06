@@ -1,6 +1,6 @@
 {
   "name": "arc-query-runner",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A query runner for Arc",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/altereagle/arc-query-runner.git"
+    "url": "git+https://github.com/altereagle/arc.microservice-query-runner.git"
   },
   "keywords": [
     "Arc",
@@ -18,7 +18,7 @@
   "author": "Kendell Joseph",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/altereagle/arc-query-runner/issues"
+    "url": "https://github.com/altereagle/arc.microservice-query-runner/issues"
   },
-  "homepage": "https://github.com/altereagle/arc-query-runner#readme"
+  "homepage": "https://github.com/altereagle/arc.microservice-query-runner#readme"
 }
